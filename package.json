@@ -1,0 +1,22 @@
+{
+  "name": "single-webpage-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyHanep/single-webpage-portfolio.git"
+  },
+  "author": "Kenneth Famarin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyHanep/single-webpage-portfolio/issues"
+  },
+  "homepage": "https://github.com/AyHanep/single-webpage-portfolio#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
